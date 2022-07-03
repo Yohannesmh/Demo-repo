@@ -1,2 +1,2 @@
 # Demo-repo
-This is special demo!
+This is special demo on Git.
